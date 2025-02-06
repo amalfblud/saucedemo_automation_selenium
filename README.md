@@ -4,9 +4,8 @@
 * https://www.saucedemo.com/
 
 ## Tools Used
-* Selenium WebDriver v4.28.1
-* Chromedriver v133.0.6943.53	
-* Java
+* Selenium WebDriver Java version 4.28.1
+* Chromedriver version 133.0.6943.53	
 * VSCode
 
 ## Project Structure
