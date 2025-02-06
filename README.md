@@ -1,7 +1,7 @@
 # Selenium WebDriver Automation Testing
 
 ## Website
-* [https://www.demoblaze.com/](https://www.saucedemo.com/)
+* https://www.saucedemo.com/
 
 ## Tools Used
 * Selenium WebDriver v4.28.1
