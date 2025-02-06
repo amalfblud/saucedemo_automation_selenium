@@ -6,7 +6,7 @@
 ## Tools Used
 * Selenium WebDriver Java version 4.28.1
 * Chromedriver version 133.0.6943.53	
-* VSCode
+* Visual Studio Code
 
 ## Project Structure
 * **Java :** Contains Java scripts for test execution.
