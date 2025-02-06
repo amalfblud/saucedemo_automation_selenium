@@ -1,0 +1,11 @@
+Test Cases:
+1. Login Process
+    - Login Positive
+    - Login Negative
+    - Logout
+2. Cart Functionality
+    - Add to Cart
+    - Remove from Cart 1&2
+3. Checkout Process
+    - Checkout Positive 1&2
+    
